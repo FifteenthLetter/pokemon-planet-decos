@@ -1,0 +1,171 @@
+{
+    "valentine": {
+        "2019": [
+            "Heart Backpack",
+            "Valentines Tophat"
+        ],
+        "2020": [
+            "Heart Glasses",
+            "Valentines bow",
+            "Skitty Mount",
+            "Valentines Furret Mount"
+        ]
+    },
+    "easter": {
+        "2016": [
+            "Bunny Tail"
+        ],
+        "2017": [
+            "Black Fox Mask",
+            "White Fox Mask"
+        ],
+        "2018": [
+            "Bunnelby Ears",
+            "Diggersby Ears"
+        ],
+        "2019": [
+            "Blue Egg Backpack",
+            "Pink Egg Backpack",
+            "Bunny Head"
+        ],
+        "2020": [
+            "Easter Wings",
+            "Togepi Egg Backpack",
+            "Celebi Mount",
+            "Mew Mount"
+        ],
+        "2021": [
+            "Budew",
+            "Togepi",
+            "Lopunny Ears",
+            "Mega Venusaur Mount",
+            "Altaria Mount"
+        ]
+    },
+    "summer": {
+        "2017": [
+            "Aviator Sunglasses",
+            "Inner Tube"
+        ],
+        "2018": [
+            "Snorkel",
+            "Totem Mask"
+        ],
+        "2019": [
+            "Flower Scarf",
+            "Inner Tube Hat",
+            "Watermelon Head"
+        ],
+        "2020": [
+            "Red Butterfly Wings",
+            "Green Butterfly Wings",
+            "Blue Butterfly Wings",
+            "Red Butterfly Headphones",
+            "Blue Butterfly Headphones",
+            "Green Butterfly Headphones",
+            "Victreebel Backpack",
+            "Volcanion Mount",
+            "Volcarona Mount"
+        ],
+        "2021": [
+            "Diving Helmet",
+            "Donut Backpack",
+            "Duck Inner Tube",
+            "Pirate Hat",
+            "Hydreigon Mount",
+            "Pirate Ship Mount"
+        ]
+    },
+    "halloween": {
+        "2015": [
+            "Pumpkin Head"
+        ],
+        "2016": [
+            "Devil Wings",
+            "Duskull Mask"
+        ],
+        "2017": [
+            "Skeleton Mask",
+            "Witch Hat"
+        ],
+        "2018": [
+            "Giratina Wings",
+            "Halloween Starmie Backpack",
+            "Houndoom Horns"
+        ],
+        "2019": [
+            "Dracula Cloak",
+            "Plague Doctor Mask",
+            "Mega Gengar Mount",
+            "Origin Giratina Mount"
+        ],
+        "2020": [
+            "Gengar Head",
+            "Coffin Backpack",
+            "Yveltal Mount",
+            "Pumpkaboo Mount",
+            "Skeleton Costume",
+            "Oni Mask",
+            "Broom Mount",
+            "Bat Hairclip"
+        ],
+        "2021": [
+            "Litwick",
+            "Shadow Wings",
+            "Evil Scarecrow Head",
+            "Darkrai Mount",
+            "Honchkrow Mount",
+            "Chandelure Mount",
+            "Pumpkin Backpack",
+            "Egyptian Wings",
+            "Wizard Hat",
+            "Undead Rapidash Mount",
+            "Zombie Costume",
+            "Skeleton Wings"
+        ]
+    },
+    "christmas": {
+        "2015": [
+            "Santa Hat"
+        ],
+        "2016": [
+            "Delibird Mask"
+        ],
+        "2017": [
+            "Antlers",
+            "Red Nose"
+        ],
+        "2018": [
+            "Christmas Scarf",
+            "Frosty Head",
+            "Scarlet Wings"
+        ],
+        "2019": [
+            "Elf Hat",
+            "Santa Beard",
+            "Aurorus Mount",
+            "Xerneas Mount"
+        ],
+        "2020": [
+            "Ice Cube Head",
+            "Glalie Head",
+            "Sled Mount",
+            "Beartic Mount",
+            "Gingerbread Costume",
+            "Ice Wings",
+            "Sleigh Mount",
+            "Candy Canes"
+        ],
+        "2021": [
+            "Penguin Head",
+            "Frost Wings",
+            "Kyurem Mount",
+            "Delibird Mount",
+            "Candy Wings",
+            "Yeti Costume",
+            "Snow Scarf",
+            "Christmas Stantler Mount",
+            "Christmas Tree Hat"
+        ]
+    }
+}
